@@ -1,1 +1,2 @@
-print ("Hello, World!")
+name = "GitHub"
+print(f"Hello, {name}!")
